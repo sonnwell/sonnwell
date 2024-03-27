@@ -1,4 +1,5 @@
 ## Hi there! I'm Sonnie! 👋
+![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
 
 
 #### Tech Stack
