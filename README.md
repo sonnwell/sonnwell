@@ -1,7 +1,7 @@
-### Hi there! I'm Sonnie! 👋
+## Hi there! I'm Sonnie! 👋
 
 
-## Tech Stack
+#### Tech Stack
 ![Static Badge](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Static Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql&logoColor=e535ab)
 
 
