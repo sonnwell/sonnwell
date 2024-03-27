@@ -1,5 +1,5 @@
 ## Hi there! I'm Sonnie! 👋
-<a href="https://www.linkedin.com/in/sonnie-welling-b4760a240/" target="_blank">
+<a href="https://www.linkedin.com/in/sonnie-welling-b4760a240/" rel="nofollow noreferrer">
   <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin">
 </a>
 
