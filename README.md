@@ -1,5 +1,5 @@
 ## Hi there! I'm Sonnie! 👋
-![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
+![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsonnie-welling-b4760a240%2F)
 
 
 #### Tech Stack
