@@ -4,7 +4,7 @@
 </a>
 
 #### Tech Stack
-![Static Badge](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Static Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql&logoColor=e535ab) ![Static Badge](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=f06529) ![Static Badge](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass)
+![Static Badge](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=f06529) ![Static Badge](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass) ![Static Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 
 
