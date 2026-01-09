@@ -1,7 +1,4 @@
 ## Hi there! I'm Sonnie! 👋
-<a href="https://www.linkedin.com/in/sonnie-welling-b4760a240/" rel="nofollow noreferrer">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin">
-</a>
 
 #### Tech Stack
 ![Static Badge](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=f06529) ![Static Badge](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass) ![Static Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
