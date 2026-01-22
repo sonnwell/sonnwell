@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF769&repeat=false&width=435&lines=Hi%2C+I'm+Sonnie!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF769&repeat=false&width=435&height=30&lines=Hi%2C+I'm+Sonnie!)](https://git.io/typing-svg)
 
 Frontend Engineer building practical, user-focused web apps with React and JavaScript.
 
