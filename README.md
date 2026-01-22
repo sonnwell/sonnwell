@@ -1,4 +1,4 @@
-## Sonnie Welling
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF769&repeat=false&width=435&lines=Hi%2C+I'm+Sonnie!)](https://git.io/typing-svg)
 Frontend Engineer building practical, user-focused web apps with React and JavaScript.
 
 I enjoy turning messy real-world problems into simple, usable products. Lately, that’s meant building small SaaS-style tools and exploring how AI can automate boring or error-prone workflows.
