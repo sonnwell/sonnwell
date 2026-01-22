@@ -29,5 +29,5 @@ Focus: UX clarity, safe data handling, real-world usefulness
 
 ### Tech Stack
 ![Static Badge](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=f06529) ![Static Badge](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass) ![Static Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) 
-Currently expanding into Node, databases, and applied AI
+#### Currently expanding into Node, databases, and applied AI
 
