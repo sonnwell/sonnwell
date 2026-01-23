@@ -1,34 +1,34 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF769&repeat=false&width=435&height=30&lines=Hi%2C+I'm+Sonnie!)](https://git.io/typing-svg)
 
-Frontend Engineer building practical, user-focused web apps with React and JavaScript.
+I’m a developer who likes building things that are actually useful. Most of my work is React + JavaScript, and I spend a lot of time thinking about UX, not just code.
 
-I enjoy turning messy real-world problems into simple, usable products. Lately, that’s meant building small SaaS-style tools and exploring how AI can automate boring or error-prone workflows.
-
----
-
-### What I’m working on
-- Building an AI-powered medical bill auditing tool (React, TypeScript, Node)
-- Leveling up into full-stack development while staying UI-focused
-- Exploring AI-assisted workflows for real-world products
+Lately I’ve been working on small product-style apps and experimenting with how AI can help automate annoying, error-prone stuff in the real world.
 
 ---
 
-### Featured projects
+### What I’m up to lately
+- Building an AI-powered medical bill auditing tool
+- Slowly moving toward full-stack without losing my UI focus
+- Figuring out where AI actually helps vs where it’s just hype
+
+---
+
+### Stuff I’m building
 **Billometry**  
-AI-powered web app that analyzes medical bills for errors and overcharges.  
-Tech: React, TypeScript, Node, Gemini API  
-Focus: UX clarity, safe data handling, real-world usefulness
+A private MVP that analyzes medical bills and flags possible errors or overcharges.  
+Built with React, TypeScript, Node, and AI-powered analysis.  
+Very UX-driven, very practical.
 
 ---
 
-### How I approach development
-- User experience comes first, even in internal tools
-- I prefer shipping something useful over over-engineering
-- I use AI to accelerate thinking, not replace it
+### How I like to work
+- I care a lot about clarity and usability
+- I’d rather ship something simple than over-engineer
+- I use AI as a helper, not a replacement for thinking
 
 ---
 
-### Tech Stack
-![Static Badge](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=f06529) ![Static Badge](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass) ![Static Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) 
-#### Currently expanding into Node, databases, and applied AI
+### Tech I use
+HTML, CSS/SCSS, JavaScript, React  
+Currently digging more into Node, databases, and applied AI
 
